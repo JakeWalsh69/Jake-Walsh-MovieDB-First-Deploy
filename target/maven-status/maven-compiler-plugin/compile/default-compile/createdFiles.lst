@@ -1,0 +1,13 @@
+controller\GenericSearchController.class
+controller\UserController.class
+controller\Movie.class
+controller\Application.class
+repository\UserRepository.class
+model\TvShow.class
+model\Genre.class
+model\SpokenLanguages.class
+model\ProductionCompanies.class
+controller\User.class
+controller\LanguageSearchController.class
+model\ProductionCountries.class
+repository\MovieRespository.class
